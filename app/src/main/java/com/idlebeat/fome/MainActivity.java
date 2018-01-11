@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 // Code here executes on main thread after user presses button
                 Log.d("My app", "Here click");
-         //       Intent intent = new Intent(this, FollowActivity.class);
-           //     startActivity(intent);
+                Intent intent = new Intent(v.getContext(), FollowActivity.class);
+                startActivity(intent);
             }
         });
     }

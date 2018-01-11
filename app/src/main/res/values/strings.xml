@@ -5,4 +5,7 @@
     <string name="btnAction1">Follow Me</string>
     <string name="btnAction2">Follow and Audio</string>
     <string name="btnAction3">Follow and Camera</string>
+
+    <string name="starFollow">Star Follow</string>
+    <string name="stopFollow">Stop Follow</string>
 </resources>
