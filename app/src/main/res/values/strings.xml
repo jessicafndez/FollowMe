@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoMe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btnAction1">Follow Me</string>
+    <string name="btnAction2">Follow and Audio</string>
+    <string name="btnAction3">Follow and Camera</string>
+</resources>
